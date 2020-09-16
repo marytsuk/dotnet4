@@ -5,7 +5,7 @@ using SixLabors.ImageSharp; // Из одноимённого пакета NuGet
 using SixLabors.ImageSharp.PixelFormats;
 using System.Linq;
 using SixLabors.ImageSharp.Processing;
-using Microsoft.ML.OnnxRuntime.Tensors;
+using System.Numerics.Tensors;
 using Microsoft.ML.OnnxRuntime;
 using System.Collections.Generic;
 
